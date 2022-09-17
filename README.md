@@ -29,8 +29,8 @@ Todos os projetos estão na minha conta do <a href="https://codepen.io/oliveirad
 ## Demo
 
 ![Web](https://github.com/oliveiradeflavio/imersaodev_alura/blob/main/img/versao_web.png)
-![Mobile](https://github.com/oliveiradeflavio/imersaodev_alura/blob/main/img/versao_mobile.png)
 ![Tema_Dark](https://github.com/oliveiradeflavio/imersaodev_alura/blob/main/img/versao_web_dark.png)
+![Mobile](https://github.com/oliveiradeflavio/imersaodev_alura/blob/main/img/versao_mobile.png)
 
 
 <!-- CONTACT -->
