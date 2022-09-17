@@ -38,7 +38,7 @@ Todos os projetos estão na minha conta do <a href="https://codepen.io/oliveirad
 
 Flávio Oliveira - [LinkedIn](https://www.linkedin.com/in/fladoliveira/)
 
-Link do Projeto: [https://github.com/oliveiradeflavio/horus_pdv](https://github.com/oliveiradeflavio/imersaodev_alura)
+Link do Projeto: [https://github.com/oliveiradeflavio/imersaodev_alura](https://github.com/oliveiradeflavio/imersaodev_alura)
 
 
 
