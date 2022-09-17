@@ -16,14 +16,8 @@
 
 Imersão Dev Alura, realizada no dia 05/09/2022 até o dia 16/09/2022. Foram 10 dias de imersão, com foco maior na linguagem Javascript, abordando em cada aula HTML e CSS. 
 
-Todos os projetos estão no Codepen
+Todos os projetos estão na minha conta do <a href="https://codepen.io/oliveiradeflavio">Codepen</a>
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="yLjNMjy" data-user="oliveiradeflavio" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/oliveiradeflavio/pen/yLjNMjy">
-  Calculadora de média</a> by Flávio Oliveira (<a href="https://codepen.io/oliveiradeflavio">@oliveiradeflavio</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ### Construído com
 
